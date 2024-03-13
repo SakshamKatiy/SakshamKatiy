@@ -1,4 +1,4 @@
-<img align="top" alt="Coading" width="100%" height="400" src="https://github.com/SakshamKatiy/Glassmorphism-Card-Effect/assets/115263557/a238234f-b20d-4298-864c-905a308033f8">
+<img align="top" alt="Coading" width="80%" height="380" src="https://github.com/SakshamKatiy/Glassmorphism-Card-Effect/assets/115263557/a238234f-b20d-4298-864c-905a308033f8">
 <h1 align="center">Hi 👋, I'm Saksham Katiyar</h1>
 <h3 align="center">Versatile Full-Stack Designer & Developer | Machine Learning | Cloud Enthusiast | DBMS Maestro</h3>
 
