@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **EcoGrowersWeb**
 
-- 🌱 I’m currently learning **M.E.A.N Stack**
+- 🌱 I’m currently learning **M.E.R.N Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SakshamKatiy](https://github.com/SakshamKatiy)
 
