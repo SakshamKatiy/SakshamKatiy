@@ -1,12 +1,13 @@
 <img align="top" alt="Coading" width="100%" height="780" src="https://github.com/SakshamKatiy/Glassmorphism-Card-Effect/assets/115263557/a238234f-b20d-4298-864c-905a308033f8">
 <h1 align="center">Hi 👋, I'm Saksham Katiyar</h1>
-<h3 align="center">Versatile Full-Stack Designer & Developer | Machine Learning | Cloud Enthusiast | DBMS Maestro</h3>
+<h3 align="center">Versatile Full-Stack Designer & Developer | Machine Learning | Cloud Enthusiast </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamkatiy&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamkatiy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshamkatiy" alt="sakshamkatiy" /></a> </p>
 
+<img align="right" width="400px"  src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 - 🔭 I’m currently working on **EcoGrowersWeb**
 
 - 🌱 I’m currently learning **M.E.R.N Stack**
