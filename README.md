@@ -10,7 +10,7 @@
 <img align="right" width="400px"  src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 - 🔭 I’m currently working on **EcoGrowersWeb**
 
-- 🌱 I’m currently learning **M.E.R.N Stack**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SakshamKatiy](https://github.com/SakshamKatiy)
 
