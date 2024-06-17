@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshamkatiy" alt="sakshamkatiy" /></a> </p>
 
 <img align="right" width="400px"  src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
-- 🔭 I’m currently working on **EcoGrowersWeb**
+- 🔭 I’m currently working on **Crop Management and Disease Detection**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SakshamKatiy](https://github.com/SakshamKatiy)
 
