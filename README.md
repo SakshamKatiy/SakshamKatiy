@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SakshamKatiy](https://github.com/SakshamKatiy)
 
-- 💬 Ask me about **JS,PHP,MEAN,Python**
+- 💬 Ask me about **JS,PHP,MERN,Python**
 
 - 📫 How to reach me **saksham.katiyar52@gmail.com**
 
